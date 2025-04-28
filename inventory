@@ -1,0 +1,5 @@
+[rhel9]
+rhel9-1 ansible_host=192.168.192.128 ansible_connection=ssh ansible_user=root
+
+[web:children]
+rhel9

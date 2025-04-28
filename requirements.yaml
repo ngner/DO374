@@ -1,0 +1,3 @@
+---
+collections:
+  - name: git+https://gitlab.consulting.redhat.com/redhat-cop/openshift-virtualization-migration/openshift_virtualization_migration.git
